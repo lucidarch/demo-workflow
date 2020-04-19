@@ -1,11 +1,3 @@
-# Lucid • Workflow Demo
-This is a demo project based on the [Lucid Workflow docs](https://lucid-architecture.gitbook.io/docs/workflow).
-
-**DISCLAIMER** This demo is for showcase purposes only and is not ready for production use
-for it may contain weaknesses. See [Workflow • FAQ](https://lucid-architecture.gitbook.io/docs/workflow#faq)
-for more. However, you may use it as you please (see [License](#license) below).
-
-# License
 Copyright 2020 Abed Halawi
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
